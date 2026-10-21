@@ -1,0 +1,11 @@
+.github/workflows/build.yml
+README.md
+app/build.gradle.kts
+app/proguard-rules.pro
+app/src/main/AndroidManifest.xml
+app/src/main/java/com/eventedge/ai/MainActivity.kt
+app/src/main/res/values/styles.xml
+app/src/test/java/com/eventedge/ai/SmokeTest.kt
+build.gradle.kts
+gradle.properties
+settings.gradle.kts
